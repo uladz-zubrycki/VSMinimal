@@ -3,6 +3,10 @@
 Visual Studio 2022 configuration adjustments to get clean visual style and as less bloat as possible. Highly opinionated.
 I use it to develop stuff with C#, so it's the only language tested. I use ReSharper so don't need many built-in features.
 
+This is the latest look I have:
+
+![image](https://user-images.githubusercontent.com/5411526/142904277-93ab93ec-a671-4c62-9d27-b25a7a80ad25.png)
+
 ### Visual studio look and behavior:
 
 1. Disable file hierarchy (types, members, etc) in solution explorer:
