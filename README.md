@@ -10,18 +10,19 @@ I use it to develop stuff with C#, so it's the only language tested. I use ReSha
     `Computer\HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\<version>_<id>` `DWORD UseSolutionNavigatorGraphProvider=0`  
 2. `Tools`>`Environment`>`General` `On startup, open` choose `Show empty environment`;
 3. `Tools`>`Environment`>`Tabs and Windows`>`Preview Tab` uncheck root `Allow new files to be opened in the Preview tab`;
-4. `Tools`>`Customize`>`Toolbars` uncheck everything;
-5. `Tools`>`Customize`>`Commands` remove ones you don't use;
-6. `Tools`>`Options` `Source Control`>`Plug-in Selection` set to `None` to remove source control integration;
-7. `Tools`>`Options` `Text Editor`>`General` uncheck `Track changes` to remove scroll bar marks for changed/deleted/inserted lines;
-8. `Tools`>`Options` `Text Editor`>`All languages`>`Code lens` uncheck `Enable Code Lens` to disable annotations like usages count and source control history rendered near code symbols; 
-9. `Tools`>`Options` `Text Editor`>`All languages`>`Scroll bars` uncheck everything, but `Show errors` under `Show annotations over vertical scroll bar`;
-10. `Tools`>`Options` `Text Editor`>`All languages` check `Line numbers`;
-11. `Tools`>`Options` `Text Editor`>`All languages` uncheck `Enable single click URL navigation` to make urls non clickable and without noisy styling;
-12. `Tools`>`Options` `Text Editor`>`All languages` uncheck `Navigation bar` to gemove members dropdown in the top of open tab;
-13. `Tools`>`Options`>`Intellicode` disable everything;
-14. `Tools`>`Options` `Projects and Solutions`>`General` uncheck `Reopen documents on solution load`;
-15. `Tools`>`Options` `Projects and Solutions`>`General` uncheck `Restore solution explorer project hierarchy state on solution load`;
+3. `Tools`>`Environment`>`Tabs and Windows`>`Document Tabs` uncheck root `Bold text on selected tabs`;
+5. `Tools`>`Customize`>`Toolbars` uncheck everything;
+6. `Tools`>`Customize`>`Commands` remove ones you don't use;
+7. `Tools`>`Options` `Source Control`>`Plug-in Selection` set to `None` to remove source control integration;
+8. `Tools`>`Options` `Text Editor`>`General` uncheck `Track changes` to remove scroll bar marks for changed/deleted/inserted lines;
+9. `Tools`>`Options` `Text Editor`>`All languages`>`Code lens` uncheck `Enable Code Lens` to disable annotations like usages count and source control history rendered near code symbols; 
+10. `Tools`>`Options` `Text Editor`>`All languages`>`Scroll bars` uncheck everything, but `Show errors` under `Show annotations over vertical scroll bar`;
+11. `Tools`>`Options` `Text Editor`>`All languages` check `Line numbers`;
+12. `Tools`>`Options` `Text Editor`>`All languages` uncheck `Enable single click URL navigation` to make urls non clickable and without noisy styling;
+13. `Tools`>`Options` `Text Editor`>`All languages` uncheck `Navigation bar` to gemove members dropdown in the top of open tab;
+14. `Tools`>`Options`>`Intellicode` disable everything;
+15. `Tools`>`Options` `Projects and Solutions`>`General` uncheck `Reopen documents on solution load`;
+16. `Tools`>`Options` `Projects and Solutions`>`General` uncheck `Restore solution explorer project hierarchy state on solution load`;
 
 ### CSharp Syntax highlighting:
 
