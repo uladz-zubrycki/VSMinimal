@@ -1,6 +1,6 @@
 # Visual Studio Minimal
 
-Visual Studio 2022 configuration adjustments to get clean visual style and as less bloat as possible. Hightly opinionated.
+Visual Studio 2022 configuration adjustments to get clean visual style and as less bloat as possible. Highly opinionated.
 I use it to develop stuff with C#, so it's the only language tested. I use ReSharper so don't need many built-in features.
 
 Visual studio behavior:
