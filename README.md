@@ -27,8 +27,6 @@ I use it to develop stuff with C#, so it's the only language tested. I use ReSha
 
 A minimalistic setup inspired by https://github.com/tonsky/vscode-theme-alabaster for a light visual studio theme.
 
-Use `Tools` > `Import and export settings` to get it applied. Don't forget to save your current setup before. You will probably need to replace `Theme Id="{Guid}"` to use your current theme id.
-
 Here is how it looks like:
 1. Locals and variables are highlighted with blue;
 2. Comments are coloured green;
@@ -36,3 +34,7 @@ Here is how it looks like:
 4. All the rest is black, while keywords are grayed-out a little.
 
 ![image](https://user-images.githubusercontent.com/5411526/142902871-6c5b878f-4dbb-4d3c-97f9-3be81bd7e5f7.png)
+
+Use `Tools` > `Import and export settings` to get it applied. Don't forget to save your current setup before. You will probably need to replace `Theme Id="{Guid}"` to use your current theme id.
+
+`fonts_colors-2022.vssettings` is the file to export.
