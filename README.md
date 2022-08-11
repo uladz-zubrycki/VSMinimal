@@ -43,3 +43,5 @@ Here is how it looks like:
 Use `Tools` > `Import and export settings` to get it applied. Don't forget to save your current setup before. You will probably need to replace `Theme Id="{Guid}"` to use your current theme id.
 
 `fonts_colors-2022.vssettings` is the file to export.
+
+To disable greeny highlighted of the word under cursor in case you're using ReSharper see https://www.jetbrains.com/help/resharper/Code_Analysis__Configuring_Warnings.html
