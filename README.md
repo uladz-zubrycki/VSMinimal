@@ -44,4 +44,4 @@ Use `Tools` > `Import and export settings` to get it applied. Don't forget to sa
 
 `fonts_colors-2022.vssettings` is the file to export.
 
-To disable greeny highlighted of the word under cursor in case you're using ReSharper see https://www.jetbrains.com/help/resharper/Code_Analysis__Configuring_Warnings.html
+To disable greeny highlighting of the word under cursor in case you're using ReSharper see https://www.jetbrains.com/help/resharper/Code_Analysis__Configuring_Warnings.html
